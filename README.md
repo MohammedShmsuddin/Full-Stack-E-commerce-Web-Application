@@ -13,7 +13,18 @@ Cloud: AWS S3 for image storage, RDS for database, Beanstalk for web application
 
 User Authentication and Access Management: Okta identity and access management API
   
-Description: ***This web application is in production so code will not be avilable. Check the link***
+  
+  
+  
+  
+Description: ***This web application is in production so code will not be avilable for public. Check the link***
+Link:
+
+Registration process: after registration user must verify the email address to login. after successful registration it may take few hours for account to activate.
+
+Sell an item process: After listing an item the product image will take some time to display since I personally verify the image content, because our image filtering service is still under construction. Image are stored in AWS S3 simple storage. 
+
+purchase: after a successful purchase customer will recieve an ORDER CONFRIMATION Email with order summary and details with order tracing number.
  
 Front Page:
 <img width="1431" alt="Screen Shot 2021-04-21 at 12 21 44 AM" src="https://user-images.githubusercontent.com/17059682/115496433-9ca6a500-a237-11eb-9fe4-dd4b2be03709.png">
