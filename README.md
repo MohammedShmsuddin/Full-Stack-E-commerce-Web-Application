@@ -31,6 +31,7 @@ Search:
 
 
 Category and Filter:
+![Screen Shot 2021-04-21 at 12 37 32 AM](https://user-images.githubusercontent.com/17059682/115497511-cbbe1600-a239-11eb-8f34-b4bafdf21eba.png)
 
 
 Product Details:
@@ -41,14 +42,52 @@ Pagination:
 ![Screen Shot 2021-04-21 at 12 31 26 AM](https://user-images.githubusercontent.com/17059682/115497075-f3f94500-a238-11eb-9356-b7f50a3000c6.png)
 
 
-Footer:
+Footer: Check the image above
+
+
+
 
 Cart status and cart Details:
 ![Screen Shot 2021-04-21 at 12 30 11 AM](https://user-images.githubusercontent.com/17059682/115496986-cd3b0e80-a238-11eb-8766-cf7681f90109.png)
 
 
+Checkout:
+![Screen Shot 2021-04-21 at 12 40 14 AM](https://user-images.githubusercontent.com/17059682/115497751-42f3aa00-a23a-11eb-87ec-bcf4f263e133.png)
 
+![Screen Shot 2021-04-21 at 12 40 32 AM](https://user-images.githubusercontent.com/17059682/115497759-471fc780-a23a-11eb-9c9a-6e2964454408.png)
 
+![Screen Shot 2021-04-21 at 12 40 47 AM](https://user-images.githubusercontent.com/17059682/115497773-4c7d1200-a23a-11eb-81ee-9409b8ffa934.png)
 
+![Screen Shot 2021-04-21 at 12 40 54 AM](https://user-images.githubusercontent.com/17059682/115497782-5141c600-a23a-11eb-845d-e65b5de428ea.png)
+
+ 
+ List an Item for Sale:
+ 
+ 
+ List of product user selling:
+ 
+ Delete product:
+ 
+ 
+ Update existing product:
+ 
+ 
+ Purchase history:
+ 
+ Orders:
+ 
+ Profile:
+ 
+ Order confirmation email:
+ 
+ User validation email:
+ 
+ 
+ 
+ TO DO LIST:
+ 
+ 1. Payment gateway: On progress
+ 2. Advance search engine: On progress
+ 3. 
  
  
