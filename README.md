@@ -62,32 +62,42 @@ Checkout:
 
  
  List an Item for Sale:
+ ![Screen Shot 2021-04-21 at 12 49 05 AM](https://user-images.githubusercontent.com/17059682/115498424-88fd3d80-a23b-11eb-8338-f5619533464a.png)
+
+![Screen Shot 2021-04-21 at 12 49 26 AM](https://user-images.githubusercontent.com/17059682/115498433-8d295b00-a23b-11eb-83d4-9a9d5e04b836.png)
  
  
  List of product user selling:
  
- Delete product:
+ 
+ ![Screen Shot 2021-04-21 at 12 50 50 AM](https://user-images.githubusercontent.com/17059682/115498498-a92cfc80-a23b-11eb-943e-a338d817ae62.png)
+
+ 
+ 
+ Delete product: See image above
  
  
  Update existing product:
  
+ ![Screen Shot 2021-04-21 at 12 52 15 AM](https://user-images.githubusercontent.com/17059682/115498603-e1343f80-a23b-11eb-8fa1-b7709680134b.png)
+
  
  Purchase history:
  
  Orders:
  
- Profile:
+ Profile: profile information are private
  
- Order confirmation email:
+ Order confirmation email: customer will recieve order confirmation email after purchase
  
- User validation email:
+ User validation email: user will recieve email to validate the email
  
  
  
  TO DO LIST:
  
  1. Payment gateway: On progress
- 2. Advance search engine: On progress
+ 2. Advance search engine using ElasticSearch: On progress
  3. 
  
  
