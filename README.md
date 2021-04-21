@@ -2,6 +2,7 @@
 Full Stack E-commerce Web Application
 
 Technology:
+
   Frontend: Angular, Bootstrap
   Backend: Spring Boot, Hibernate
   Database: Sql, MySQL
