@@ -94,12 +94,19 @@ Checkout:
 
  
  Purchase history:
+ ![Screen Shot 2021-04-21 at 1 32 06 AM](https://user-images.githubusercontent.com/17059682/115502262-a386e500-a242-11eb-894c-b5172cf88555.png)
+
  
  Orders:
  
  Profile: profile information are private
  
  Order confirmation email: customer will recieve order confirmation email after purchase
+ ![Screen Shot 2021-04-21 at 1 37 46 AM](https://user-images.githubusercontent.com/17059682/115502282-aaadf300-a242-11eb-9bf1-37f5cb4b4d66.png)
+ 
+ ![Screen Shot 2021-04-21 at 1 37 58 AM](https://user-images.githubusercontent.com/17059682/115502292-b0a3d400-a242-11eb-9ca1-b8f57bf0d901.png)
+
+
  
  User validation email: user will recieve email to validate the email
  
